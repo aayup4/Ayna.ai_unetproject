@@ -1,0 +1,72 @@
+_wandb:
+    value:
+        cli_version: 0.21.0
+        e:
+            04gqt273sah1vazo8vs1h3fcnj3szcjo:
+                colab: https://colab.research.google.com/notebook#fileId=1IeOoAVc3oo8wEKI5iYPJJg25vLcD3Bh8
+                cpu_count: 1
+                cpu_count_logical: 2
+                cudaVersion: "12.4"
+                disk:
+                    /:
+                        total: "120942624768"
+                        used: "47983628288"
+                email: aayu44203@gmail.com
+                executable: /usr/bin/python3
+                gpu: Tesla T4
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Turing
+                      cudaCores: 2560
+                      memoryTotal: "16106127360"
+                      name: Tesla T4
+                      uuid: GPU-008adaef-6664-2219-4960-8309ec1a207c
+                host: 0d2ef42d70e6
+                memory:
+                    total: "13608370176"
+                os: Linux-6.1.123+-x86_64-with-glibc2.35
+                program: ganpatibapamorya.ipynb
+                python: CPython 3.11.13
+                root: /content
+                startedAt: "2025-08-05T07:01:22.577973Z"
+                writerId: 04gqt273sah1vazo8vs1h3fcnj3szcjo
+        m: []
+        python_version: 3.11.13
+        t:
+            "1":
+                - 1
+                - 2
+                - 3
+                - 5
+                - 11
+                - 12
+                - 41
+                - 49
+                - 53
+                - 71
+                - 105
+            "2":
+                - 1
+                - 2
+                - 3
+                - 5
+                - 11
+                - 12
+                - 41
+                - 45
+                - 49
+                - 53
+                - 71
+                - 83
+                - 98
+                - 105
+            "3":
+                - 2
+            "4": 3.11.13
+            "5": 0.21.0
+            "6": 4.54.0
+            "8":
+                - 1
+                - 12
+            "12": 0.21.0
+            "13": linux-x86_64
